@@ -9,4 +9,4 @@ dashboard 3 public link- https://public.tableau.com/views/dashboard3_16973002901
 
 story public link- https://public.tableau.com/views/story_16972997344760/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
-video demonstration video- 
+video demonstration link- https://drive.google.com/file/d/1fBtL5JZksOrPI1XErDeOm1aJ1l_PUlEZ/view?usp=drivesdk
